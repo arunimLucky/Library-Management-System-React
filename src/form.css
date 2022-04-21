@@ -1,0 +1,9 @@
+.txt{
+    /* position: fixed; */
+   margin-top: 25vw;
+   /* width: 50%; */
+   text-align: center
+}
+.txt:focus{
+    margin-top: 5
+} 
